@@ -6,4 +6,11 @@
 - Add haptic feedback upon completion of the timer
 - Make it available on WatchOS
 
-![Screenshot][simulator_screenshot_94047979-BFDD-4E36-B164-F0ED7C7D0CF7.png]
+![alt text](https://github.com/edelmans/RestOClock/blob/master/Screenshots/start.png "Start")
+![alt text](https://github.com/edelmans/RestOClock/blob/master/Screenshots/rolling.png "Rolling")
+![alt text](https://github.com/edelmans/RestOClock/blob/master/Screenshots/yellow.png "Halfway there mark passed")
+![alt text](https://github.com/edelmans/RestOClock/blob/master/Screenshots/red.png "Almost done")
+![alt text](https://github.com/edelmans/RestOClock/blob/master/Screenshots/done.png "Done")
+
+
+
